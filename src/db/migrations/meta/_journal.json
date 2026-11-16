@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1775080393933,
+      "tag": "0000_shocking_hardball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1775086636863,
+      "tag": "0001_plain_cannonball",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1776703408333,
+      "tag": "0002_add_messages",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1776886213377,
+      "tag": "0003_previous_lady_ursula",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1787931669738,
+      "tag": "0004_overconfident_kat_farrell",
+      "breakpoints": true
+    }
+  ]
+}

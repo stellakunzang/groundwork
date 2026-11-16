@@ -1,0 +1,1 @@
+ALTER TABLE `companies` ADD `status_changed_at` text;
