@@ -1,0 +1,1 @@
+ALTER TABLE `interactions` ADD `thank_you_sent` integer DEFAULT false;
